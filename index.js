@@ -300,6 +300,8 @@ const data = [
         occupation: "Artist",
         size: "medium"
     },
+    
+
     {
         name: "Fatimah",
         age: "10",
